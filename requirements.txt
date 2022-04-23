@@ -4,3 +4,4 @@ numpy
 soundfile
 IPython
 scipy
+ipyfilechooser
