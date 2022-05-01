@@ -6,7 +6,7 @@
 [![Watch demo on YouTube: https://youtu.be/yyklh6AH8J8](https://img.youtube.com/vi/yyklh6AH8J8/0.jpg)](https://youtu.be/yyklh6AH8J8)
 <br />
 ***How this script works:***
--
+
 <br />
 
 1. Global parameters:
