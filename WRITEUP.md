@@ -70,3 +70,5 @@ W. Kacper Werkowicz [33655491]
   - implented sorting using correlation clustering
   
 *Thanks to Ben, Jeremi, Maksym, Otta, Sohyun and others for helping me out with testing and suggestions on how to improve this project.*
+
+Costam
