@@ -1,6 +1,6 @@
 **Sound and Signal 2 MiniProject**
 <br />
-W. Kacper Werkowicz [33655491]
+33655491
 <br />
 **Audio segmentation and sorting based on similarity using MFCCs**
 <br />
