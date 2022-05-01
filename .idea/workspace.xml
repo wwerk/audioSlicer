@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6a19d3d3-6710-48e5-b5a2-99d5f6d8aa0e" name="Changes" comment="update">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WRITEUP.md" beforeDir="false" afterPath="$PROJECT_DIR$/WRITEUP.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/audioSlicer.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/audioSlicer.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
