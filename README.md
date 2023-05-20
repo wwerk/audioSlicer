@@ -1,5 +1,5 @@
 # audio-segment
- MFCC based audio slicing and sorting
+ MFCC based audio grain sorting
  
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/wwerk/audio-segment/blob/main/audioSlicer.ipynb)
 
